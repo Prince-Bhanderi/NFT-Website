@@ -1,0 +1,10 @@
+[23/7/2022, 2:16:03 pm] layer "+592.16%": Expected Either a default asset specification or a layer asset specification but "+" found.
+[23/7/2022, 2:16:03 pm] layer "+3.78": Expected Either a default asset specification or a layer asset specification but "+" found.
+[23/7/2022, 2:16:03 pm] layer "+101.38%": Expected Either a default asset specification or a layer asset specification but "+" found.
+[23/7/2022, 2:16:03 pm] layer "+404.38": Expected Either a default asset specification or a layer asset specification but "+" found.
+[23/7/2022, 2:16:03 pm] layer "+592.16% copy": Expected Either a default asset specification or a layer asset specification but "+" found.
+[23/7/2022, 2:16:03 pm] layer "+3.78 copy": Expected Either a default asset specification or a layer asset specification but "+" found.
+[23/7/2022, 2:16:03 pm] layer "+101.38% copy": Expected Either a default asset specification or a layer asset specification but "+" found.
+[23/7/2022, 2:16:03 pm] layer "+404.38 copy": Expected Either a default asset specification or a layer asset specification but "+" found.
+[23/7/2022, 2:16:03 pm] layer "+592.16% copy 2": Expected Either a default asset specification or a layer asset specification but "+" found.
+[23/7/2022, 2:16:03 pm] layer "+3.78 copy 2": Expected Either a default asset specification or a layer asset specification but "+" found.
