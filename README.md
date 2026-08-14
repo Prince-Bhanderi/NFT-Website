@@ -79,4 +79,4 @@ PSD/wireframe source files included in `assets/design` and `assets/wirefream` fo
 Template based on **Gigaland** by Designesia.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).<img width="1440" height="5000" alt="NFT crypto copy" src="https://github.com/user-attachments/assets/56b8ea99-d045-4c0f-b1ea-9c4de7d71e3c" />
+This project is licensed under the [MIT License](LICENSE)
