@@ -1,3 +1,4 @@
+<img width="1151" height="5096" alt="modified_image" src="https://github.com/user-attachments/assets/ca313585-fd75-4254-9ff8-5436f93a6b6c" />
 # 🖼️ NFT Marketplace (OpenSea Clone)
 
 A responsive NFT marketplace website inspired by OpenSea. Explore trending NFTs, browse categories, check top collections, connect wallets, and mint your own NFTs.
