@@ -78,4 +78,4 @@ Template based on **prince bhander** by Designesia.
 ## License
 This project is licensed under the [MIT License](LICENSE)
 
-<img width="1151" height="5096" alt="modified_image" src="https://github.com/user-attachments/assets/ca313585-fd75-4254-9ff8-5436f93a6b6c" />
+<img width="100%" height="5096" alt="modified_image" src="https://github.com/user-attachments/assets/ca313585-fd75-4254-9ff8-5436f93a6b6c" />
