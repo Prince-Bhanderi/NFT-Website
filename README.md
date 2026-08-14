@@ -1,4 +1,3 @@
-<img width="1151" height="5096" alt="modified_image" src="https://github.com/user-attachments/assets/ca313585-fd75-4254-9ff8-5436f93a6b6c" />
 # 🖼️ NFT Marketplace (OpenSea Clone)
 
 A responsive NFT marketplace website inspired by OpenSea. Explore trending NFTs, browse categories, check top collections, connect wallets, and mint your own NFTs.
@@ -73,11 +72,10 @@ NFT-Website/
 - Click the profile icon to view your account.
 - Visit **Help Centre** for support.
 
-## Design Files
-PSD/wireframe source files included in `assets/design` and `assets/wirefream` for reference/customization.
-
 ## Credits
-Template based on **Gigaland** by Designesia.
+Template based on **prince bhander** by Designesia.
 
 ## License
 This project is licensed under the [MIT License](LICENSE)
+
+<img width="1151" height="5096" alt="modified_image" src="https://github.com/user-attachments/assets/ca313585-fd75-4254-9ff8-5436f93a6b6c" />
